@@ -2,7 +2,7 @@
 
 > Estudiante de Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataformas.
 
-Soy estudiante de 1º curso del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma. Recientemente he obtenido el título de Técnico Medio en Sistemas Microinformáticos y Redes, y he realizado la Formación en Centros de Trabajo en Malta mediante el programa Erasmus+.
+**Soy estudiante de 1º curso del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma.** Recientemente he obtenido el título de Técnico Medio en Sistemas Microinformáticos y Redes, y he realizado la Formación en Centros de Trabajo en Malta mediante el programa Erasmus+.
 Hablo Castellano de forma nativa, Inglés con un nivel B2 y Alemán con un nivel A1 y cursando el nivel A2 en la Escuela Oficial de Idiomas.
 Actualmente estoy estudiando Java, Python, HTML5 y CSS3.
 Manejo VSCode, Eclipse, InteliJ Community/Ultimate y PyCharm Ultimate.
