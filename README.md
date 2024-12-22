@@ -19,6 +19,7 @@ _IDEs & RDBMS_
 - Project IDX
 - Postgre
 
+---
 Me apasiona la programación y lucho por llegar a ser un gran programador de videojuegos, que es mi objetivo.
 En mi plan de estudios está, aparte de completar el ciclo superior que estoy estudiando actualmente y del que tengo previsto graduarme en Junio de 2026, cursar el 2º curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web y seguidamente cursar el Ciclo Formativo de Especialización en Desarrollo de Videojuegos y Realidad Virtual.
 Soy de aprendizaje rápido, que sumado al entusiasmo e ineteres que tengo en la informática, hacen que sea muy autodidacta y por ello trato de aprender diferentes lenguajes, tecnologías y formas de trabajar por mi cuenta.
