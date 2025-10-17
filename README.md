@@ -7,7 +7,7 @@
 **Soy estudiante de 2º curso del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma.** Recientemente he obtenido el título de Técnico Medio en Sistemas Microinformáticos y Redes, y he realizado la Formación en Centros de Trabajo en Malta mediante el programa Erasmus+.
 Hablo Castellano de forma nativa, Inglés con un nivel B2 y Alemán con un nivel A2 cursado en la Escuela Oficial de Idiomas de la Comunidad de Madrid.<br>
 _Lenguajes que manejo:_ 
-- Java SE 22 y superior
+- Java SE 17 y superior
 - Kotlin
 - C# (.NET)
 - Python 3
