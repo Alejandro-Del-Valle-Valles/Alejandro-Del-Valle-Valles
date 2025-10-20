@@ -4,16 +4,21 @@
 > Estudiante del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataformas.<br>
 > Actualmente cursando el 2º año.
 
-**Soy estudiante de 2º curso del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma.** Recientemente he obtenido el título de Técnico Medio en Sistemas Microinformáticos y Redes, y he realizado la Formación en Centros de Trabajo en Malta mediante el programa Erasmus+.
+**Soy estudiante de 2º curso del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma.** Poseo el título de Técnico Medio en Sistemas Microinformáticos y Redes.
+Mi filosofía como desarrollador es escribir código siguiendo los principios S.O.L.I.D, KISS (Keep It Simple, Stupid) y las directrices de Clean Code. Así como crear una documentación simple y concisa pero completa en línea con Clean Code.
 Hablo Castellano de forma nativa, Inglés con un nivel B2 y Alemán con un nivel A2 cursado en la Escuela Oficial de Idiomas de la Comunidad de Madrid.<br>
+
 _Lenguajes que manejo:_ 
-- Java SE 17 y superior
-- Kotlin
+- Java
+- Kotlin (Desarrollo Nativo en Android)
 - C# (.NET)
+  - Creación de Apps Multiplataforma con MAUI
 - Python 3
-- PostgreSQL y SQLite
+  - Conocimientos básicos en Django. 
+- PostgreSQL y SQLite 
 - HTML5
 - CSS3
+  - Bootstrap 5
 
 _IDEs & RDBMS_
 - VScode
@@ -31,10 +36,11 @@ En mi plan de estudios está, aparte de completar el ciclo superior que estoy es
 Soy de aprendizaje rápido, que sumado al entusiasmo, ineteres y pasión que tengo en la informática, hacen que sea muy autodidacta y por ello trato de aprender diferentes lenguajes, tecnologías y formas de trabajar por mi cuenta.
 
 Puedes segurime en mis redes sociales:
-
-<a href="https://www.linkedin.com/in/alejandro-del-valle-vallés-6068922ab/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="30" />
-</a>
-<a href="https://x.com/AlejandroDelVV">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X" width="30"/>
-</a>
+<div style="padding: 30dp; margin: 30dp;">
+  <a href="https://www.linkedin.com/in/alejandro-del-valle-vallés-6068922ab/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="60"/>
+  </a>
+  <a href="https://x.com/AlejandroDelVV">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X" width="60"/>
+  </a>
+</div>
