@@ -9,10 +9,12 @@ Mi filosofía como desarrollador es escribir código siguiendo los principios S.
 Hablo Castellano de forma nativa, Inglés con un nivel B2 y Alemán con un nivel A2 cursado en la Escuela Oficial de Idiomas de la Comunidad de Madrid.<br>
 
 _Lenguajes que manejo:_ 
-- Java
-- Kotlin (Desarrollo Nativo en Android)
+- Java (SE 17 y Superior)
+  - Spring Data JPA
+  - Spring Boot
+- Kotlin (Desarrollo Nativo en Android con API 24 y superior)
 - C# (.NET)
-  - Creación de Apps Multiplataforma con MAUI
+  - Creación de Apps Multiplataforma con MAUI (XAMl & C#)
 - Python 3
   - Conocimientos básicos en Django. 
 - PostgreSQL y SQLite 
@@ -24,10 +26,8 @@ _IDEs & RDBMS_
 - VScode
 - Visual Studio
 - Eclipse
-- IntelliJ
-- PyCharm
+- IDEs de JetBrains
 - Android Studio
-- Firebase Studio
 - PGadmin
 
 ---
