@@ -1,19 +1,21 @@
-## Hola, soy Alejandro del Valle Vallés
+## Hola! Soy Alejandro del Valle Vallés
 ### Desempeño actual: Estudiante
 
 > Estudiante del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataformas.<br>
 > Actualmente cursando el 2º año.
 
 **Soy estudiante de 2º curso del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma.** Poseo el título de Técnico Medio en Sistemas Microinformáticos y Redes.
-Mi filosofía como desarrollador es escribir código siguiendo los principios S.O.L.I.D, KISS (Keep It Simple, Stupid) y las directrices de Clean Code. Así como crear una documentación simple y concisa pero completa en línea con Clean Code.
+Mi filosofía como desarrollador es escribir código siguiendo los principios S.O.L.I.D, DRY, YAGNI, KISS (Keep It Simple, Stupid) y las directrices de Clean Code. Así como crear una documentación simple y concisa pero completa, en línea con Clean Code.
 Hablo Castellano de forma nativa, Inglés con un nivel B2 y Alemán con un nivel A2 cursado en la Escuela Oficial de Idiomas de la Comunidad de Madrid.<br>
 
-_Lenguajes que manejo:_ 
+_Lenguajes y Frameworks que manejo:_ 
 - Java (SE 17 y Superior)
   - Spring Data JPA
   - Spring Boot
-- Kotlin (Desarrollo Nativo en Android con API 24 y superior)
-- C# (.NET)
+- Kotlin
+  - Desarrollo nativo en Android con API 24 (Android 7.0) y superior.
+  - Desarrollo multiplataforma con KMP y Compose
+- C# (.NET 9.0 y superior)
   - Creación de Apps Multiplataforma con MAUI (XAMl & C#)
 - Python 3
   - Conocimientos básicos en Django. 
@@ -21,6 +23,7 @@ _Lenguajes que manejo:_
 - HTML5
 - CSS3
   - Bootstrap 5
+- JS (Conocimientos básicos)
 
 _IDEs & RDBMS_
 - VScode
