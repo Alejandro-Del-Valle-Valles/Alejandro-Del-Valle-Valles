@@ -1,7 +1,7 @@
 ## Hola! Soy Alejandro del Valle Vallés
 ### Desempeño actual: Estudiante
 
-> Estudiante de 2º curso del CFGS de Desarrollo de Aplicaciones Web.
+> Estudiante de 2º curso del CFGS de Desarrollo de Aplicaciones Web.<br>
 > Técnico Superior en Desarrollo de Aplicaciones Multiplataformas.<br>
 > Técnico Medio en Sistemas Microinformáticos y Redes.
 
