@@ -1,10 +1,11 @@
 ## Hola! Soy Alejandro del Valle Vallés
 ### Desempeño actual: Estudiante
 
-> Estudiante del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataformas.<br>
-> Actualmente cursando el 2º año.
+> Estudiante de 2º curso del CFGS de Desarrollo de Aplicaciones Web.
+> Técnico Superior en Desarrollo de Aplicaciones Multiplataformas.<br>
+> Técnico Medio en Sistemas Microinformáticos y Redes.
 
-**Soy estudiante de 2º curso del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma.** Poseo el título de Técnico Medio en Sistemas Microinformáticos y Redes.
+**Soy estudiante de 2º curso del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web.** Soy Técncio Superior en Desarrollo de Aplicaciones Multiplataforma y Técncio Medio en Sistemas Microinformáticos y Redes.
 Mi filosofía como desarrollador es escribir código siguiendo los principios S.O.L.I.D, DRY, YAGNI, KISS (Keep It Simple, Stupid) y las directrices de Clean Code. Así como crear una documentación simple y concisa pero completa, en línea con Clean Code.
 Hablo Castellano de forma nativa, Inglés con un nivel B2 y Alemán con un nivel A2 cursado en la Escuela Oficial de Idiomas de la Comunidad de Madrid.<br>
 
@@ -23,7 +24,7 @@ _Lenguajes y Frameworks que manejo:_
 - HTML5
 - CSS3
   - Bootstrap 5
-- JS (Conocimientos básicos)
+- JavaScript (Conocimientos básicos)
 
 _IDEs & RDBMS_
 - VScode
@@ -45,9 +46,6 @@ Puedes segurime en mis redes sociales y ver mi CV en LinkedIn o en el último en
   </a>
   <a href="https://x.com/AlejandroDelVV">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X" width="60"/>
-  </a>
-  <a href="https://www.self.so/alejandro-del-valle-valles">
-    <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png" alt="Mi CV Web" width="60"/>
   </a>
 </div>
 
