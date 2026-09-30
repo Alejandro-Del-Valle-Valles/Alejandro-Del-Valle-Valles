@@ -1,51 +1,42 @@
-## Hola! Soy Alejandro del Valle Vallés
-### Desempeño actual: Estudiante
+<h1 align="center">&#128187;Alejandro DeVV&#128187;</h1>
 
-> Estudiante de 2º curso del CFGS de Desarrollo de Aplicaciones Web.<br>
-> Técnico Superior en Desarrollo de Aplicaciones Multiplataformas.<br>
-> Técnico Medio en Sistemas Microinformáticos y Redes.
-
-**Soy estudiante de 2º curso del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web.** Soy Técncio Superior en Desarrollo de Aplicaciones Multiplataforma y Técncio Medio en Sistemas Microinformáticos y Redes.
-Mi filosofía como desarrollador es escribir código siguiendo los principios S.O.L.I.D, DRY, YAGNI, KISS (Keep It Simple, Stupid) y las directrices de Clean Code. Así como crear una documentación simple y concisa pero completa, en línea con Clean Code.
-Hablo Castellano de forma nativa, Inglés con un nivel B2 y Alemán con un nivel A2 cursado en la Escuela Oficial de Idiomas de la Comunidad de Madrid.<br>
-
-_Lenguajes y Frameworks que manejo:_ 
-- Java (SE 17 y Superior)
-  - Spring Data JPA
-  - Spring Boot
-- Kotlin
-  - Desarrollo nativo en Android con API 24 (Android 7.0) y superior.
-  - Desarrollo multiplataforma con KMP y Compose
-- C# (.NET 9.0 y superior)
-  - Creación de Apps Multiplataforma con MAUI (XAMl & C#)
-- Python 3
-  - Conocimientos básicos en Django. 
-- PostgreSQL y SQLite 
-- HTML5
-- CSS3
-  - Bootstrap 5
-- JavaScript (Conocimientos básicos)
-
-_IDEs & RDBMS_
-- VScode
-- Visual Studio
-- Eclipse
-- IDEs de JetBrains
-- Android Studio
-- PGadmin
-
----
-Me apasiona la programación backend y me esfuerzo por llegar a ser un gran programador de videojuegos, que es mi objetivo.
-En mi plan de estudios está, aparte de completar el ciclo superior que estoy estudiando actualmente y del que tengo previsto graduarme en Junio de 2026, cursar el 2º curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web y seguidamente cursar el Ciclo Formativo de Especialización en Desarrollo de Videojuegos y Realidad Virtual.
-Soy de aprendizaje rápido, que sumado al entusiasmo, ineteres y pasión que tengo en la informática, hacen que sea muy autodidacta y por ello trato de aprender diferentes lenguajes, tecnologías y formas de trabajar por mi cuenta.
-
-Puedes segurime en mis redes sociales y ver mi CV en LinkedIn o en el último enlace:
-<div style="padding: 30dp; margin: 30dp;">
-  <a href="https://www.linkedin.com/in/alejandro-del-valle-vallés-6068922ab/">
-    <img src="https://kirisama.com/wp-content/uploads/2023/04/linkedin-logo-black.png" alt="LinkedIn" width="60"/>
-  </a>
-  <a href="https://x.com/AlejandroDelVV">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X" width="60"/>
-  </a>
+<div align="center">
+  <img src="./assets/banner.jpg" width="720" alt="Aurora terminal intro" />
 </div>
 
+<h3 align="center">Desarrollador enfocado en crear aplicaciones eficientes, escalables, y creativas</h3>
+
+><b>Desempeño actual:</b> Estudiante de 2º del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web
+
+<h2 align="center">⚡ Dev Stack</h2>
+
+<h3 align="center">Lenguajes & BBDD</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,cs,py,js,php,html,css,postgresql,sqlite"  alt="Lenguajes & BBDD que manejo (Java, Kotlin, C#, Python, JS, PHP, HTML5, CSS3, PostgreSQL, SQLite)">
+</p>
+<h3 align="center">Frameworks</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,django,bootstrap"  alt="Frameworks que manejo (Spring, .NET, Django, Bootstrap5)">
+</p>
+<h3 align="center">Herramientas</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,eclipse,vscode,visualstudio,androidstudio,idea,postman,git,github"  alt="Herramientas que manejo (Windows, Linux, Ubuntu, Eclipse IDE, VScode, Visual Studio, Android Studio, IntelliJ, Postman, Git, GitHub)">
+</p>
+
+<h2 align="center">Sobre Mi👨‍💻</h2>
+
+**Me apasiona la programación backend** y mi objetivo es convertirme en un desarrollador que escriba *buen código, limpio, mantenible, y escalable*.<br>
+Soy **técnico superior en Desarrollo de Aplicaciones Multiplataforma**.<br>
+Actualmente estoy **cursando el segundo curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web**, del cual me graduaré en *junio de 2027*. Estoy abierto a nuevas posibilidades de estuido y trabajo, pensando actualmente en continuar mi formación durante 2027 y 2028 especializándome en *Desarrollo de Videojuegos, IA, o Python*.<br>
+Me entusiasma y me apasiona picar codigo y aprender, lo que hace que sea muy autodidacta y esté buscando constantemente algo nuevo con lo que expandir mis conocimientos.
+
+<h2 align="center">Contacta conmigo!</h2>
+<p align="center">
+    <a href="https://www.linkedin.com/in/alejandro-del-valle-vallés-6068922ab/">
+        <img src="https://img.shields.io/badge/X%20(Anteriormente%20Twitter)-gray?style=for-the-badge&logo=x&labelColor=gray">
+    </a>
+    <a href="https://www.linkedin.com/in/alejandro-del-valle-vallés-6068922ab/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:alejandrodelvalle06@outlook.es"><img src="https://img.shields.io/badge/outlook-blue?style=for-the-badge&logo=mail.ru&labelColor=blue"></a>
+</p>
