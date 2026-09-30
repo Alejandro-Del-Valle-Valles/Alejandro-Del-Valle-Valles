@@ -40,3 +40,18 @@ Me entusiasma y me apasiona picar codigo y aprender, lo que hace que sea muy aut
     </a>
     <a href="mailto:alejandrodelvalle06@outlook.es"><img src="https://img.shields.io/badge/outlook-blue?style=for-the-badge&logo=mail.ru&labelColor=blue"></a>
 </p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Alejandro-Del-Valle-Valles/Alejandro-Del-Valle-Valles/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Alejandro-Del-Valle-Valles/Alejandro-Del-Valle-Valles/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Alejandro-Del-Valle-Valles/Alejandro-Del-Valle-Valles/output/github-contribution-grid-snake.svg"
+  />
+</picture>
