@@ -41,6 +41,25 @@ Me entusiasma y me apasiona picar codigo y aprender, lo que hace que sea muy aut
     <a href="mailto:alejandrodelvalle06@outlook.es"><img src="https://img.shields.io/badge/outlook-blue?style=for-the-badge&logo=mail.ru&labelColor=blue"></a>
 </p>
 
+<h2 align="center">Mis estadísticas:</h2>
+
+<a href="https://github-stats-extended.vercel.app/api?username=Alejandro-Del-Valle-Valles">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=Alejandro-Del-Valle-Valles&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=Alejandro-Del-Valle-Valles&theme=light_github" alt="Mis estadísiticas generales"/>
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Alejandro-Del-Valle-Valles&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Alejandro-Del-Valle-Valles&langs_count=4&theme=light_github" alt="Lenguajes que más uso" />
+  </picture>
+</a>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
